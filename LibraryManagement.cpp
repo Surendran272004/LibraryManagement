@@ -55,7 +55,7 @@ int main() {
   std::cout << "3. Magazine" << std::endl;
   std::cout << "4. Mystery Book" << std::endl;
 
-  std::cout << "Enter your Choice(1-4):" << '\n';
+  std::cout << "Enter your Choice(1-4): ";
   std::cin >> choice;
   switch (choice) {
   case 1:
